@@ -53,23 +53,4 @@ Only after receiving the user's request should you proceed with the prompt engin
    <example>
    <user_request>I want an LLM to write a blog post about the benefits of mindfulness, targeting an audience of busy professionals.</user_request>
    <llm_response>
-
-```xml
-<prompt>
-<task>Write a blog post about the benefits of mindfulness.</task>
-<context>The target audience for this blog post is busy professionals who are likely experiencing stress and time constraints.</context>
-<instructions>
-    <step>Start with an engaging introduction that resonates with the challenges faced by busy professionals (e.g., stress, lack of focus, burnout).</step>
-    <step>Clearly define mindfulness in a concise and accessible way, avoiding jargon.</step>
-    <step>Explain at least three key benefits of practicing mindfulness, such as reduced stress, improved focus, and enhanced emotional regulation. Provide brief explanations and examples for each benefit.</step>
-    <step>Offer practical and actionable tips on how busy professionals can incorporate mindfulness into their daily routines. Suggest specific, short exercises that can be easily integrated into their schedules (e.g., mindful breathing during commutes, brief meditation breaks).</step>
-    <step>Conclude with a motivating call to action, encouraging readers to try incorporating mindfulness into their lives and highlighting the potential positive impact.</step>
-</instructions>
-<output_format>The blog post should be written in a clear, concise, and engaging style. Use short paragraphs and bullet points where appropriate to enhance readability. The tone should be encouraging and practical.</output_format>
-<constraints>
-    The blog post should be approximately 500-600 words in length.
-    Avoid overly technical or academic language.
-    Focus on the practical benefits and easy implementation of mindfulness techniques.
-</constraints>
 </prompt>
-```
