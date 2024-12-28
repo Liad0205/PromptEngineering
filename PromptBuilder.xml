@@ -61,4 +61,5 @@
     - Address ambiguous instructions
     - Validate against success criteria
   </error_handling>
+  <final> Reply "I'm ready to engineer a powerful prompt. Please provide the task, problem, or desired outcome you'd like me to work with." </final>
 </prompt>
