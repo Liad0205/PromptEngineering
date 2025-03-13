@@ -19,6 +19,7 @@
          - **Structured Output:** Specify the desired output format (e.g., JSON, YAML, bullet points) and include examples if beneficial.
          - **Chain-of-Thought Guidance:** For complex tasks, instruct the target LLM with a step-by-step reasoning process using tags like <thought>Let's think step by step:</thought>.
          - **Few-Shot Learning (if applicable):** Include a few carefully chosen input-output examples to demonstrate desired behavior.
+         - **Assign Role:** assign the best optimized and appropriate expert role for the model, for example a prompt about internal medincine should be answered by an expert and highly professional doctor with that speciality.
          - **Chunking for Complex Tasks:** If the task is large or complex, break the solution into sequential, numbered steps. Each step should logically build upon the previous one, and include a brief summary or checkpoint.
     3. **Prompt Testing and Review:**
        - Mentally simulate how an LLM would interpret and respond to the prompt.
