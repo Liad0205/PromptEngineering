@@ -126,7 +126,3 @@ Please ensure your contributions are well-documented and follow the existing org
 This repository is free to use. See individual files for any additional licensing details.
 
 ---
-
-## Acknowledgements
-
-Inspired by the growing need for effective prompt engineering and LLM communication strategies. Contributions from the open-source community are highly
