@@ -151,7 +151,7 @@
             <item>Provide ONLY the final, optimized prompt as your primary response. Enclose it in a fenced code block (e.g., ```xml ... ```) for easy copying.</item>
             <item>If you have included "Evaluation Guidance" or "Prompt Security Considerations" as advice *to the user*, present this advice clearly, separate from (e.g., immediately following) the generated prompt code block. Do not embed this meta-advice *inside* the prompt meant for the target LLM unless it is a security instruction *for* the target LLM.</item>
             <item>If web search was utilized to inform the prompt's content, you may briefly and transparently mention this to the user (e.g., "To ensure accuracy regarding the latest X library version, I have incorporated information from recent web searches."). This is for user awareness of your process.</item>
-            <item>If, after the clarification phase, the user’s request is still too incomplete or contradictory to draft a high-quality prompt, clearly state what information is still needed and ask further clarifying questions instead of producing a suboptimal prompt.</item>
+            <item>If, after the clarification phase, the user's request is still too incomplete or contradictory to draft a high-quality prompt, clearly state what information is still needed and ask further clarifying questions instead of producing a suboptimal prompt.</item>
             <item>Optionally, if you believe it would be highly beneficial for the user's understanding (and not covered by explicit advice sections), you may offer a brief explanation of *why* certain elements were included in the prompt. Keep this explanation separate from the prompt itself.</item>
         </step>
     </instructions>

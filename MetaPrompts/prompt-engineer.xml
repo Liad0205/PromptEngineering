@@ -46,7 +46,7 @@
     7. Respond with the final optimized prompt in a copyable format.
               </workflow>
               <evaluation>
-    Success will be measured by the prompt’s clarity, completeness, adherence to the specified principles and rules, and its effectiveness in guiding an LLM to produce the desired outcome. The optimized prompt should be unambiguous, well-structured, and directly address the given task with sufficient context, constraints, and step-by-step reasoning if applicable.
+    Success will be measured by the prompt's clarity, completeness, adherence to the specified principles and rules, and its effectiveness in guiding an LLM to produce the desired outcome. The optimized prompt should be unambiguous, well-structured, and directly address the given task with sufficient context, constraints, and step-by-step reasoning if applicable.
               </evaluation>
               <output_format>
                 <structure>
