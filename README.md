@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 Quickstart
+## Quickstart
 
 1. **Browse** the [Instruction Sets](#instruction-sets) below or in the repo folders.
 2. **Copy** the relevant XML or Markdown file for your use case.
@@ -15,7 +15,7 @@
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 MetaPrompts/   # Meta-level prompt engineering and orchestration
@@ -26,7 +26,7 @@ README.md      # This file
 
 ---
 
-## 🧭 What’s Inside?
+## What’s Inside?
 
 ### Why Use This Repo?
 
@@ -37,7 +37,7 @@ README.md      # This file
 
 ---
 
-## 📚 Instruction Sets
+## Instruction Sets
 
 ### Software Engineering
 
@@ -119,11 +119,11 @@ README.md      # This file
 3. **Paste** it at the beginning of your conversation with an LLM (e.g., ChatGPT, Copilot, etc.).
 4. **Describe** your specific questions, requirements, or tasks.
 
-> 💡 **Tip:** For best results, always choose the instruction set that most closely aligns with your intended use case.
+>  **Tip:** For best results, always choose the instruction set that most closely aligns with your intended use case.
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 We welcome contributions from the community!
 
@@ -140,7 +140,7 @@ We welcome contributions from the community!
 
 ---
 
-## 📝 License
+## License
 
 This repository is free to use. See individual files for any additional licensing details.
 
